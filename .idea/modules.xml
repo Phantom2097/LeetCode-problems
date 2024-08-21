@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CodeRun/CodeRun.iml" filepath="$PROJECT_DIR$/CodeRun/CodeRun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode-problems.iml" filepath="$PROJECT_DIR$/LeetCode-problems.iml" />
     </modules>
   </component>

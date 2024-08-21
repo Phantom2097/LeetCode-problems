@@ -11,6 +11,8 @@ fun main() {
     val apps = reader.readLine().split(" ").sumOf { it.toInt() }
 
     val res = 100 / apps
+    val s = "\\"
+    println(s.length)
     writer.write(res.toString())
 
     reader.close()

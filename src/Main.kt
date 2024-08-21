@@ -2,5 +2,7 @@ import CodeBattle.pair_with_maximum_product
 import java.util.*
 
 fun main() {
-    print(pair_with_maximum_product(6))
+    println(pair_with_maximum_product(6))
+    val s = "\\"
+    println(s.length)
 }
