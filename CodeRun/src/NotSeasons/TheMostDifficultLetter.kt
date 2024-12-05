@@ -13,8 +13,6 @@ fun main(args: Array<String>) {
     val reader = BufferedReader(InputStreamReader(System.`in`))
     val writer = BufferedWriter(OutputStreamWriter(System.out))
 
-    val countLetters = IntArray(26)
-
     val n = reader.readLine().toInt()
     val row = reader.readLine()
     val time = reader.readLine().split(" ").map { it.toInt() }

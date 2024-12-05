@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algo/Algo.iml" filepath="$PROJECT_DIR$/Algo/Algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeRun/CodeRun.iml" filepath="$PROJECT_DIR$/CodeRun/CodeRun.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode-problems.iml" filepath="$PROJECT_DIR$/LeetCode-problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MTS_True_Tech/MTS_True_Tech.iml" filepath="$PROJECT_DIR$/MTS_True_Tech/MTS_True_Tech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T-Bank/T-Bank.iml" filepath="$PROJECT_DIR$/T-Bank/T-Bank.iml" />
     </modules>
   </component>
 </project>
